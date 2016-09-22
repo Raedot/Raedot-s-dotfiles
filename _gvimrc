@@ -1,1 +1,12 @@
 colorscheme wombat
+:set nu!
+
+nmap <C-h> 5h
+nmap <C-j> 5j
+nmap <C-k> 5k
+nmap <C-l> 5l
+
+let Vimphpcs_Standard='C:\Users\Joonas\Downloads\php\pear\PHP\CodeSniffer\Standards\PSR2\ruleset.xml'
+
+set encoding=utf-8
+set fileencoding=utf-8
