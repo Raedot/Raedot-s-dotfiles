@@ -16,3 +16,7 @@ set fileencoding=utf-8
 
 "Set Powerline always visible
 :set laststatus=2
+let g:Powerline_symbols = "fancy"
+
+"Use 256 color
+set t_Co=256
