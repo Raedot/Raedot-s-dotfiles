@@ -1,2 +1,5 @@
 "Set default color scheme
 colorscheme wombat
+
+"Hide toolbar in gVim
+:set guioptions-=T
