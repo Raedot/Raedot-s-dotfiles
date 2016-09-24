@@ -3,3 +3,5 @@ colorscheme wombat
 
 "Hide toolbar in gVim
 :set guioptions-=T
+
+:set guifont=Anonymice_Powerline:h12
