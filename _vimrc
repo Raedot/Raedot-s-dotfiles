@@ -10,6 +10,9 @@ nmap <C-l> 5l
 "Toggle NERDTree
 nmap <C-N> :NERDTreeToggle<ENTER>
 
+"Trigger PHP Code Sniffer
+nmap <F5> :Phpcs<ENTER>
+
 "Make backspace delete newlines etc.
 set backspace=2
 
